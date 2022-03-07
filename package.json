@@ -1,0 +1,23 @@
+{
+  "name": "u4c1evaluation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarikasingh30/U4C1Evaluation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarikasingh30/U4C1Evaluation/issues"
+  },
+  "homepage": "https://github.com/sarikasingh30/U4C1Evaluation#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
